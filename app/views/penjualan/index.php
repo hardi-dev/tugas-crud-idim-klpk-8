@@ -1,7 +1,6 @@
 <section>
   <div class="d-flex w-100 mb-4">
     <p class="h2">Daftar Penjualan</p>
-    <button type="button" class="btn btn-primary ms-auto">Tambah Penjualan</button>
   </div>
   <!-- <?php var_dump($params["data"]) ?> -->
 
